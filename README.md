@@ -32,3 +32,6 @@ d) a área do quadrado que tem lado B.
 e) a área do retângulo que tem lados A e B.
 
 
+Curso Java Completo
+http://educandoweb.com.br
+Prof. Dr. Nelio Alves
